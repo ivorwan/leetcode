@@ -6,6 +6,10 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
+            LengthOfLongestSubstringClass t = new LengthOfLongestSubstringClass();
+            t.Test();
+
+            
             Console.WriteLine("Hello World!");
         }
     }
