@@ -6,7 +6,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            LengthOfLongestSubstringClass t = new LengthOfLongestSubstringClass();
+            ReverseClass t = new ReverseClass();
             t.Test();
 
             
